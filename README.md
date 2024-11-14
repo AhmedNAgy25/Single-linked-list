@@ -58,20 +58,3 @@ This project consists of three main files:
 
 ### 12. **Destructor**
    - The destructor cleans up the memory used by the list, deleting all nodes.
-
-## How to Use
-
-1. **Create a Singly Linked List object:**
-   ```cpp
-   SLL<int> list;
-
-
-
-### Explanation:
-
-- **Project Overview**: Provides an introduction to the project and what the code does.
-- **Files Section**: Lists the three files and explains their purposes.
-- **Operations Supported**: Explains all the functions available in the code and what they do.
-- **How to Use**: Guides the user through how to use the SLL class with examples.
-- **Example Output**: Shows what output to expect when running the program.
-- **Compilation**: Provides instructions for compiling and running the code.
